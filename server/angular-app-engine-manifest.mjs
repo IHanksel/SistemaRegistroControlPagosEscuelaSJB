@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/proyecto-SJB',
+  basePath: '/SistemaRegistroControlPagosEscuelaSJB',
   supportedLocales: {
   "en-US": ""
 },
